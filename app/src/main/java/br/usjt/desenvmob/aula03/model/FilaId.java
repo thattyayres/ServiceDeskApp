@@ -1,7 +1,7 @@
 package br.usjt.desenvmob.aula03.model;
 
 /**
- * Created Tatiane do Nascimento Ayres 816118367
+ * Created by Tatiane do Nascimento Ayres 816118367.
  */
 
 public enum FilaId {
