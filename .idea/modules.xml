@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ServiceDeskApp.iml" filepath="$PROJECT_DIR$/ServiceDeskApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../arqdsis/Documents/desenvmob_serviceDesk-master/app/app.iml" filepath="$PROJECT_DIR$/../../../arqdsis/Documents/desenvmob_serviceDesk-master/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/desenvmob_serviceDesk-master.iml" filepath="$PROJECT_DIR$/desenvmob_serviceDesk-master.iml" />
     </modules>
   </component>
