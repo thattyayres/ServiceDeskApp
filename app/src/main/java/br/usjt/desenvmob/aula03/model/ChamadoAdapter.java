@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import br.usjt.desenvmob.aula03.R;
 
 /**
- * Created by Tatiane do Nascimento Ayres 816118367.
+ * Created by Tatiane do Nascimento Ayres 816118367
  */
 
 public class ChamadoAdapter extends BaseAdapter {

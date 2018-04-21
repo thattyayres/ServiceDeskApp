@@ -3,7 +3,7 @@ package br.usjt.desenvmob.aula03.model;
 import java.io.Serializable;
 
 /**
- * Created by Tatiane do Nascimento Ayres 816118367.
+ * Created by Tatiane do Nascimento Ayres 816118367
  */
 
 class Fila implements Serializable {

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 /**
- * Created by Tatiane do Nascimento Ayres 816118367.
+ * Created by Tatiane do Nascimento Ayres 816118367
  */
 
 public class Data {
